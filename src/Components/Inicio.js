@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className='container'>
       <div className='content'>
         <Carousel showArrows={true} showThumbs={false}>
-          {/* Agrega tus imágenes aquí */}
+          {/* Agrega  imágenes aquí */}
           <div>
             <img src={Imagen1} alt="Proyecto 1" className="carousel-image" />
           </div>

@@ -57,7 +57,7 @@ body {
 body::before {
   content: "";
   position: absolute;
-  
+
   top: 0;
 
   left: 0;
@@ -78,7 +78,6 @@ body::before {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  /* Ajusta la altura según tus necesidades */
   background-color: #f0f0f0;
 }
 
